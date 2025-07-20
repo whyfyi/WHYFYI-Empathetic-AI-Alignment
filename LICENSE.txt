@@ -1,0 +1,19 @@
+Copyright © 2025 Christopher Michael LeBlanc Sr. (WHYFYI)
+ORCID: 0009-0001-3970-8781
+
+ALL RIGHTS RESERVED.
+
+This work—including all manuscripts, scientific frameworks, code, algorithms, documentation, figures, and any content related to “WHYFYI”, “Quantum Prime Insight”, and the WHYFYI Project and Research Group—is the sole intellectual property of Christopher Michael LeBlanc Sr. (WHYFYI), ORCID: 0009-0001-3970-8781.
+
+No part of this work may be copied, reproduced, distributed, transmitted, published, adapted, translated, displayed, sold, licensed, or used in any form or by any means (electronic, mechanical, or otherwise), in whole or in part, without the prior, explicit, written permission of the author.
+
+Any unauthorized use, duplication, modification, or creation of derivative works is strictly prohibited and will be prosecuted to the fullest extent of applicable international copyright and intellectual property law.
+
+For collaboration, licensing, or permissions, contact: whyfyi@gmail.com
+
+All intellectual property and related rights, including the names “WHYFYI”, “Quantum Prime Insight”, “WHYFYI AI”, and all associated code, documentation, and frameworks, are wholly owned and operated by Christopher Michael LeBlanc Sr.
+
+This statement applies to all versions, updates, and related works distributed via OSF, preprint servers, websites, and any other medium.
+
+Date of first publication and registration: June 19th, 2025
+
